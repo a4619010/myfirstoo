@@ -1,9 +1,13 @@
-#myfirstoo
-
-hello my name is ji yae
+#19273030 박지예
 
 
 
-<img width=""height=""src="./Ggggg/왕자님_jpg.ggggg"</img>
+##2주차과제
+
+
+
+
+
+##3주차과제
 
 
