@@ -3,7 +3,7 @@
 
 
 ##2주차과제
-<img width="./png/19273030.박지예001.png"></img>
+<img width=""height="src="./png/19273030.박지예001.png"></img>
 
 
 
