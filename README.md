@@ -5,7 +5,7 @@
 ##2주차과제
 
 
-<img width=""height="src="./ggggg/19273030.박지예001.png"></img>
+<img width="" height="src="./ggggg/19273030.박지예001.png"></img>
 
 
 
